@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tupletoolsTest", "tupletoolsTest\tupletoolsTest.vcxproj", "{F86E5B75-3118-4C04-A4D5-75A3F9E8A406}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "include", "include", "{BC36CAD7-5F07-4162-A40C-06EB7077A289}"
+	ProjectSection(SolutionItems) = preProject
+		include\a.hpp = include\a.hpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目", "ソリューション項目", "{C3B03D90-3C0E-4296-BD5B-63D97300EEE2}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F86E5B75-3118-4C04-A4D5-75A3F9E8A406}.Debug|x64.ActiveCfg = Debug|x64
+		{F86E5B75-3118-4C04-A4D5-75A3F9E8A406}.Debug|x64.Build.0 = Debug|x64
+		{F86E5B75-3118-4C04-A4D5-75A3F9E8A406}.Debug|x86.ActiveCfg = Debug|Win32
+		{F86E5B75-3118-4C04-A4D5-75A3F9E8A406}.Debug|x86.Build.0 = Debug|Win32
+		{F86E5B75-3118-4C04-A4D5-75A3F9E8A406}.Release|x64.ActiveCfg = Release|x64
+		{F86E5B75-3118-4C04-A4D5-75A3F9E8A406}.Release|x64.Build.0 = Release|x64
+		{F86E5B75-3118-4C04-A4D5-75A3F9E8A406}.Release|x86.ActiveCfg = Release|Win32
+		{F86E5B75-3118-4C04-A4D5-75A3F9E8A406}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D34A753B-64CF-40A9-87DD-DD13DFE46E48}
+	EndGlobalSection
+EndGlobal
